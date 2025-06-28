@@ -54,4 +54,5 @@ Welcome to **Rocket Buggy**, a fast-paced multiplayer web game built using the [
 * **Networking:** WebSockets (custom Node.js server integrated with PlayCanvas)
 * **3D Physics:** PlayCanvas RigidBody and Collision components
 * **UI System:** PlayCanvas 2D Screen + Element components
+* **Game Manager** [Server-Github](https://github.com/hello-lab/Rocket-Buggy-Server)
 * **Hosting:** [Glitch](https://glitch.com/)
